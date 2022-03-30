@@ -1,0 +1,9 @@
+name: rl_results
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
