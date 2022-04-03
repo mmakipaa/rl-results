@@ -4,9 +4,9 @@ This repository contains a set of evaluation results for basic Reinforcement Lea
 
 Python implementation of evaluated RL methods can be found in https://github.com/mmakipaa/rl.
 
-Results of test runs are presented as Jupyter notebooks in [notebooks](notebooks)-folder.
+Results of test runs are presented as Jupyter notebooks in [notebooks](notebooks) folder.
 
-Results have been created by running a test run based on yaml configuration file [configs}(configs) folder for a given number of iterations:
+Results have been created by running a test run based on yaml configuration file [configs](configs) folder for a given number of iterations:
 
 ```py
 python run.py --environment <environment> --iterations <iterations> --configfile <filename>
